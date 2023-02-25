@@ -1,6 +1,6 @@
 ### Hi there, I'm **Mayank-Sharma** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=parva-jain&label=Views&color=blue&style=plastic" alt="codersharma2001" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=codersharma2001&label=Views&color=blue&style=plastic" alt="codersharma2001" /> </p>
 
 [![Twitter](https://img.shields.io/twitter/follow/ParvaJain2?style=social)](https://twitter.com/ParvaJain2)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/parva-jain-79995615a/)](https://www.linkedin.com/in/parva-jain-79995615a/)
