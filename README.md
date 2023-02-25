@@ -17,4 +17,4 @@
 - ⚡ Interesting fact: I follow vegan lifestyle. 
 
 
-[![Mayank's github stats](https://github-readme-stats.vercel.app/api?username=parva-jain&theme=merko&show_icons=true)](https://github.com/codersharma2001/github-readme-stats)
+[![Mayank's github stats](https://github-readme-stats.vercel.app/api?username=codersharma2001&theme=merko&show_icons=true)](https://github.com/codersharma2001/github-readme-stats)
