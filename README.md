@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codersharma2001&label=Views&color=blue&style=plastic" alt="codersharma2001" /> </p>
 
-[![Twitter](https://img.shields.io/twitter/follow/ParvaJain2?style=social)](https://twitter.com/ParvaJain2)
+[![Medium](https://img.shields.io/medium/follow/madhav04042001?style=social)](https://medium.com/@madhav04042001)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/parva-jain-79995615a/)](https://www.linkedin.com/in/parva-jain-79995615a/)
 
 
