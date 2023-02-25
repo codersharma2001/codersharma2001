@@ -5,6 +5,8 @@
 <!-- [![Medium](https://img.shields.io/medium/follow/madhav04042001?style=social)](https://medium.com/@madhav04042001) -->
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mayank-sharma-b69375206/)](https://www.linkedin.com/in/mayank-sharma-b69375206/)
 
+[![Medium](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@madhav04042001)](https://medium.com/@madhav04042001)
+
 
 
 
