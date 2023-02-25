@@ -8,13 +8,13 @@
 
 
 
-- 🔭 I’m currently working on decentralized Applications (dApps) development.
+- 🔭 I’m currently working on Decentralized Applications (dApps) development.
 - 🌱 I’m proficient in smart contract creation using Solidity.
-- 📗 I'm currently learning React and Nextjs.
-- 💬 My interests lies in Digital Currencies and austrian economics.
-- 📫 How to reach me: parvajainpjjp@gmail.com
+- 📗 I'm currently learning Hyperledger-Fabric.
+- 💬 My interests lies in Decentralized Finance as well as NFT creation.
+- 📫 How to reach me: madhav04042001@gmail.com
 - 😄 Pronouns: He/his/him
-- ⚡ Interesting fact: I follow vegan lifestyle. 
+- ⚡ Interesting fact: I'm football freak ⚽ occasionally . 
 
 
 [![Mayank's github stats](https://github-readme-stats.vercel.app/api?username=codersharma2001&theme=merko&show_icons=true)](https://github.com/codersharma2001/github-readme-stats)
