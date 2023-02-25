@@ -7,6 +7,7 @@
 
 [![Medium](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@madhav04042001)](https://medium.com/@madhav04042001)
 
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/mayank.sharmxa/)](https://www.instagram.com/mayank.sharmxa/)
 
 
 
