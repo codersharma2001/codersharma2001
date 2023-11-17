@@ -15,7 +15,7 @@ My Resume : [https://drive.google.com/file/d/1OM0zmlXYOavcIUqwIiKMaA-K0ZnxfCSx/v
 
 
 
-- 🔭 I’m currently working on Decentralized Applications (dApps) development.
+- 🔭 I’m currently working on Decentralized Applications (dApps) development for different-different purposes with Zuraverse PEC .
 - 🌱 I’m proficient in writing smart contracts and building logics for challenging problems in Web3.
 - 📗 I'm currently strenthening web3 security .
 - 💬 My interests lies exploring different-different protocols in DeFi , deep-diving in each of the aspect of Web3 and DeFi 🌐/
