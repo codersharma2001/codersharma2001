@@ -16,12 +16,12 @@ My Resume : [https://drive.google.com/file/d/1OM0zmlXYOavcIUqwIiKMaA-K0ZnxfCSx/v
 
 
 - 🔭 I’m currently working on Decentralized Applications (dApps) development.
-- 🌱 I’m proficient in smart contract creation using Solidity.
-- 📗 I'm currently learning Hyperledger-Fabric.
-- 💬 My interests lies in Decentralized Finance as well as NFT creation.
-- 📫 How to reach me: madhav04042001@gmail.com
-- 😄 Pronouns: He/his/him
-- ⚡ Interesting fact: I'm football freak ⚽ occasionally . 
+- 🌱 I’m proficient in writing smart contracts and building logics for challenging problems in Web3.
+- 📗 I'm currently strenthening web3 security .
+- 💬 My interests lies exploring different-different protocols in DeFi , deep-diving in each of the aspect of Web3 and DeFi 🌐/
+- 📫 How to reach me: madhav04042001@gmail.com. 
+- 😄 Pronouns: He/his/him. 
+- ⚡ Interesting fact: I am chess geek ♟️, let's have 1v1 online @https://lichess.org/@/Sharmaji2001. 
 
 
 [![Mayank's github stats](https://github-readme-stats.vercel.app/api?username=codersharma2001&theme=merko&show_icons=true)](https://github.com/codersharma2001/github-readme-stats)
