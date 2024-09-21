@@ -5,7 +5,7 @@
 
 My Portfolio : https://mayank-sharma-web3.netlify.app/
 
-My Resume : [(https://drive.google.com/file/d/1i7HC4wFcKopMHffYKp_7_GUdVr6TiJjj/view?usp=sharing)]((https://drive.google.com/file/d/1i7HC4wFcKopMHffYKp_7_GUdVr6TiJjj/view?usp=sharing))
+My Resume : [https://drive.google.com/file/d/1i7HC4wFcKopMHffYKp_7_GUdVr6TiJjj/view?usp=sharing]((https://drive.google.com/file/d/1i7HC4wFcKopMHffYKp_7_GUdVr6TiJjj/view?usp=sharing))
 
 <!-- [![Medium](https://img.shields.io/medium/follow/madhav04042001?style=social)](https://medium.com/@madhav04042001) -->
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mayank-sharma-b69375206/)](https://www.linkedin.com/in/mayank-sharma-b69375206/)
