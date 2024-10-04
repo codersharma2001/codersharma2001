@@ -62,6 +62,8 @@
   <img src="https://img.shields.io/badge/-Binance_Smart_Chain-F0B90B?style=flat-square&logo=binance" />
   <img src="https://img.shields.io/badge/-Polygon-7B3FE4?style=flat-square&logo=polygon" />
   <img src="https://img.shields.io/badge/-Solana-000000?style=flat-square&logo=solana" />
+  <img src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white" />
+
 </p>
 
 ---
