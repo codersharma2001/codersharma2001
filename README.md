@@ -12,11 +12,11 @@
 
 #### **Web3 Developer | Smart Contract Enthusiast | Chess Geek**
 
-- 🔭 Currently working on **Web3 Security** with **Velvet Capital**
-- 🌱 Proficient in **Solidity**, **DeFi Protocols**, and **Smart Contract Development**
-- 📚 Focused on strengthening **Web3 Security** and mastering **DeFi Protocols**
-- 💬 Always eager to explore new challenges in **Blockchain** and **Smart Contracts**
-- ⚡ Fun fact: A chess lover ♟️ and an avid **FIFA** player ⚽
+- 🔭 Currently working as **Blockchain Egnineer** with **Velvet Capital**.
+- 🌱 Proficient in **Solidity**, **Web3 Security Research**, and **Smart Contract Development**.
+- 📚 Focused on strengthening **Web3 Security** .
+- 💬 Always eager to explore new challenges in **Blockchain** and **Smart Contracts** in the forms CTFs and Bug Bounties. 
+- ⚡ Fun fact: A chess lover ♟️ and an avid **FIFA** player ⚽.
 
 ---
 
