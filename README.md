@@ -23,7 +23,7 @@
 ### 🚀 Portfolio & Resume
 
 - **Portfolio**: [mayank-sharma-web3.netlify.app](https://mayank-sharma-web3.netlify.app/)
-- **Resume**: [View Resume](https://drive.google.com/file/d/1i7HC4wFcKopMHffYKp_7_GUdVr6TiJjj/view?usp=sharing)
+- **Resume**: [View Resume](https://drive.google.com/file/d/1LfZdN4VFwXt7cYNYlMmDx8PRWmqZ9LTM/view?usp=sharing)
 
 ---
 
