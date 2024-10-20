@@ -12,7 +12,7 @@
 
 #### **Web3 Developer | Smart Contract Enthusiast | Chess Geek**
 
-- 🔭 Currently working as **Blockchain Egnineer** with **Velvet Capital**.
+- 🔭 Currently working as **Blockchain Engineer** at **Velvet Capital**.
 - 🌱 Proficient in **Solidity**, **Web3 Security Research**, and **Smart Contract Development**.
 - 📚 Focused on strengthening **Web3 Security** .
 - 💬 Always eager to explore new challenges in **Blockchain** and **Smart Contracts** in the forms CTFs and Bug Bounties. 
