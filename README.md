@@ -12,7 +12,7 @@
 
 #### **Web3 Developer | Smart Contract Enthusiast | Chess Geek**
 
-- 🔭 Currently working as **Blockchain Engineer** at **Velvet Capital**.
+- 🔭 Currently working as **Blockchain Engineer** at **Able Labs**.
 - 🌱 Proficient in **Solidity**, **Web3 Security Research**, and **Smart Contract Development**.
 - 📚 Focused on strengthening **Web3 Security** .
 - 💬 Always eager to explore new challenges in **Blockchain** and **Smart Contracts** in the forms CTFs and Bug Bounties. 
@@ -23,7 +23,7 @@
 ### 🚀 Portfolio & Resume
 
 - **Portfolio**: [mayank-sharma-web3.netlify.app](https://mayank-sharma-web3.netlify.app/)
-- **Resume**: [View Resume](https://drive.google.com/file/d/1LfZdN4VFwXt7cYNYlMmDx8PRWmqZ9LTM/view?usp=sharing)
+- **Resume**: [View Resume](https://drive.google.com/file/d/1XSgASTGJzIJl4M_zQeFAbsXyAd6iwnbc/view?usp=sharing)
 
 ---
 
